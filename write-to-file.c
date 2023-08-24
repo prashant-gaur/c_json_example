@@ -34,6 +34,6 @@ void create_db_entry(const char* name, const uint8_t age)
 
 int main()
 {
-    create_db_entry("Pooja Sharma", 32);
+    create_db_entry("Name", 32);
     return 0;
 }
